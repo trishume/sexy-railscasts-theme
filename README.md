@@ -13,3 +13,5 @@
 # Comparison
 
 Screenshoots will be added soon
+
+![sexy railscasts theme](https://github.com/oguzbilgic/sexy-railscasts-theme/raw/master/sexy-vs-original.png)
