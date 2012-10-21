@@ -24,10 +24,10 @@ let g:colors_name = "sexy-railscasts"
 " -----------------------------------------------------------------------------------
 " Basics
 " -----------------------------------------------------------------------------------
-hi Normal                    guifg=#E6E1DC guibg=#222222
+hi Normal                    guifg=#E6E1DC guibg=#232323
 hi Cursor                    guibg=#FFFFFF
 hi CursorLine                guibg=#333435
-hi LineNr                    guifg=#383838 guibg=#141414
+hi LineNr                    guifg=#888683 guibg=#2b2b2b
 hi NonText                   guifg=#383838 guibg=#252525 
 hi Search                    guibg=#5A647E
 hi VertSplit                 guifg=#383838 guibg=#383838
